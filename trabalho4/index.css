@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(193, 218, 191);
+}
+
+h3{
+    font-family: Microsoft JhengHei Light;
+	font-size: 20;
+    text-align: center;
+}
+
+#email {
+    border: 2px outset rgb(14, 94, 14);
+    margin-left: 580px;
+}
+
+#senha {
+    border: 2px outset rgb(14, 94, 14);
+    margin-left: 580px;
+}
+
+input[type=text] {
+    border: 2px outset rgb(14, 94, 14);
+    margin-left: 580px;
+}
